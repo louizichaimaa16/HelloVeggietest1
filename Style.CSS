@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+    color: rebeccapurple;
+    font-family: inherit;
+}
+
+
+
+
+li{
+    color: #332460;
+    font-size:18px;
+    font-family:cursive;
+    text-decoration: underline;
+    list-style: square;
+}
+p{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+img{
+    width: 100%;
+}
