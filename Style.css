@@ -1,6 +1,6 @@
 body {
-    background-color: whitesmoke;
-    color: rebeccapurple;
+    background-color:rebeccapurple;
+    color: whitesmoke;
     font-family: inherit;
 }
 
@@ -15,12 +15,28 @@ li{
     list-style: square;
 }
 p{
-    margin: 10px;
+    margin: 50px;
     padding: 15px;
-    border: 1px solid black;
 }
 
 img{
     width: 100%;
 }
 
+
+i{
+    color:cornflowerblue;
+}
+
+.red {
+    color: red;
+}
+
+
+.underline {
+    text-decoration: underline
+}
+
+.green {
+    color: green;
+}
