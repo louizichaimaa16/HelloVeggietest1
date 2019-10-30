@@ -1,6 +1,52 @@
 body {
+
     background-color:rebeccapurple;
     color: whitesmoke;
+
+
+    background-color: black ; 
+    color: white; 
+    margin: 40px auto;
+    max-width: 650px;    
+    }
+
+
+li {
+    color: indianred;
+    font-size: 18px;
+    font-family: cursive;
+    text-decoration: underline;
+    list-style: square;
+}
+
+p{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid white; 
+}
+
+
+
+img{
+    width: 100%; 
+}
+
+li1{
+    color: white;
+        
+    }
+    
+
+    .red{
+        color:red;
+}
+
+.underline{
+    text-decoration: underline;
+}
+{
+    background-color: whitesmoke;
+    color: rebeccapurple;
     font-family: inherit;
 }
 
