@@ -1,0 +1,28 @@
+body {
+    background-color: gainsboro;
+    color: indianred;
+     font-family: fantasy;
+    
+    margin:40px auto;
+    max-width: 650px;
+}
+   
+li{
+    color:crimson;
+    font-size:18px;
+    font-family: cursive;
+    text-decoration: underline;
+    list-style: square;    
+}
+p{
+    margin: 10px;
+    padding: 15px;
+}
+
+img{
+    width: 100%;
+}
+
+i{
+    color: blue darkcyan;
+}
